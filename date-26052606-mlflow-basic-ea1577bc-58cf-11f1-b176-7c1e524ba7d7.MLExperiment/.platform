@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.1.0/schema.json",
+  "metadata": {
+    "type": "MLExperiment",
+    "displayName": "date-26052606-mlflow-basic-ea1577bc-58cf-11f1-b176-7c1e524ba7d7",
+    "description": "",
+    "sensitivityLabelId": "00000000-0000-0000-0000-000000000000"
+  },
+  "config": {
+    "version": "2.1",
+    "logicalId": "9905f0b4-dd89-a8cd-407a-4d72bafe0185"
+  }
+}
